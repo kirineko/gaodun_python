@@ -1,5 +1,5 @@
-# gaodun_python
-高顿Python暑期训练营——机器学习相关代码
+# python
+Python暑期训练营——机器学习相关代码
 
 
 项目介绍
